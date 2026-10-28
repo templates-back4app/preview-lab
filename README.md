@@ -1,8 +1,12 @@
 # preview-lab
 
+[![Deploy on Back4app](https://img.shields.io/badge/Deploy%20on-Back4app-1568B8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiA3djEwbDEwIDUgMTAtNVY3eiIvPjwvc3ZnPg==)](https://www.back4app.com/signup?utm_source=github&utm_medium=repo&utm_campaign=preview-lab)
+
 One build, deployed twice: once with the settings it had in preview, and once with
 the four that production actually needs. A real browser records what a person
 sees; the API records what it thinks happened. They disagree.
+
+> **Read the article:** [App Works in Preview but Not in Production: 404 on Refresh, No Data, Login Sent to localhost](https://www.back4app.com/blog/works-in-preview-not-in-production?utm_source=github&utm_medium=repo&utm_campaign=preview-lab)
 
 ## Run it
 
